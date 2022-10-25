@@ -6,6 +6,6 @@ The files run_training.py and run_finetuning.py are examples of functions that c
 
 The files run_training_main.py and run_finetuning_main.py are examples of scripts that use run_training.py (run_training_main.py) and run_finetuning.py (run_finetuning_main.py) to do the whole training loop with repetitions and save the models as well as the logs with the results.
 
-The data used in the paper to pretrain the models can be found at https://zenodo.org/record/6794924#.Y1f3577MJkg. The speech emotion recognition refinement dataset is available through the website of the SE&R workshop (https://sites.google.com/view/ser2022)
+The data used in the paper to pretrain the models can be found at https://zenodo.org/record/6794924#.Y1f3577MJkg. The speech emotion recognition refinement dataset is available through the website of the SE&R workshop (https://sites.google.com/view/ser2022). We will make our pretrained models available soon
 
 For questions regarding how to use the code please contact: marcelomatheusgauy@gmail.com
